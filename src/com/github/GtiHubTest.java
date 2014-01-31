@@ -7,6 +7,8 @@ public class GtiHubTest {
 
 		//Commenting
 		System.out.println("Getting it");
+		
+		System.out.println("Getting it");
 	}
 
 }
